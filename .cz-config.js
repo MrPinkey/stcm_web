@@ -26,5 +26,5 @@ module.exports = {
     //跳过问题
     skipQuestions: ['scope', 'body', 'footer'],
     //subject最大长度
-    subjectLimit: 100,
+    subjectLimit: 100
 }
